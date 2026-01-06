@@ -19,6 +19,10 @@ Data engineering was critical to ensure accuracy and reliability. The process in
 ## Data Visualisation & Dashboards
 
 Data visualisation played a crucial role in transforming complex datasets into clear, actionable insights. Power BI dashboards were designed to communicate the relationship between goals scored and expected goals (xG) effectively (Microsoft, 2025; Few, 2012). Visualisations included scatter plots to display correlations, ranking tables to highlight top performers, and interactive filters for drilling down by player, team, or season.
+
+![](Screenshots/Top%2010%20Overperformers.png)
+
+![](Screenshots/Top%2010%20Underperformers.png)
  
 ## Data Analytics
 
