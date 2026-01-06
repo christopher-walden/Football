@@ -29,20 +29,22 @@ The average of all players difference metric (G+A)-(xG+xA) was only 0.06. Indica
 
 European Union (2016) Regulation (EU) 2016/679 (General Data Protection Regulation). Official Journal of the European Union.
 
-FBref (2025) FBref Football Statistics. Available at: https://fbref.com (Accessed: [insert date]).
+FBref (2025) FBref Football Statistics. Available at: https://fbref.com (Accessed: 06/01/25).
 
 Few, S. (2012) Show Me the Numbers: Designing Tables and Graphs to Enlighten. 2nd edn. Burlingame, CA: Analytics Press.
 
 Hyndman, R.J. and Athanasopoulos, G. (2018) Forecasting: Principles and Practice. 2nd edn. Melbourne: OTexts.
 
-Kaggle (2025) Football Players Stats (2024–2025). Available at: https://www.kaggle.com (Accessed: [insert date]).
+Kaggle (2025) Football Players Stats (2024–2025). Available at: https://www.kaggle.com (Accessed: 06/01/25).
 
 Knotts, L., Hensel, Z. and Nickerson, D. (2021) Measuring performance in football using expected goals. Journal of Sports Analytics, 7(2), pp.105–122.
 
 Mackenzie, R. (2019) Expected goals: explanation and application. StatsBomb Blog.
 
-Microsoft (2025) Microsoft Power BI Documentation. Available at: https://learn.microsoft.com/power-bi (Accessed: [insert date]).
+Microsoft (2025) Microsoft Power BI Documentation. Available at: https://learn.microsoft.com/power-bi (Accessed: 06/01/25).
+
 Spearman, W. (2018) Beyond xG: modelling interactions and expected outcomes in football. MIT Sloan Sports Analytics Conference Proceedings.
+
 Sæther, S.A. and Solberg, H.A. (2015) Recruitment and performance analysis in professional football. European Sport Management Quarterly, 15(3), pp.257–276.
 
 
