@@ -25,7 +25,7 @@ Data visualisation played a crucial role in transforming complex datasets into c
 The analysis employed descriptive statistics, correlation analysis, and custom metrics to uncover trends and patterns (Hyndman & Athanasopoulos, 2018). Descriptive analysis summarised key metrics such as total goals, xG values, and differences (G + A) − (xG + xA) for each player (Mackenzie, 2019). Correlation analysis evaluated the strength of the relationship between goals and xG using scatter plots and trend lines. Ranking algorithms identified overperformers and underperformers.
 The average of all players difference metric (G+A)-(xG+xA) was only 0.06. Indicating that the difference between G+A and xG+xA was very small. This means that xG and xA can be considered an accurate measurement.
 
-![Screenshot: DataFrame Info](main/Screenshots/Average of Difference Metric.png)
+![Screenshot: DataFrame Info](/Screenshots/Average of Difference Metric.png)
  
 ## References
 
